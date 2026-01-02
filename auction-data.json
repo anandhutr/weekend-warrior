@@ -1,13 +1,13 @@
 {
   "players": [
     {
-      "id": "p-import-1767292589131-0",
+      "id": "p-import-1767336338291-0",
       "name": "Basil Jose",
-      "role": "Batsman",
+      "role": "1000",
       "battingStyle": "Right handed",
       "bowlingStyle": "Right-arm spin, Right-arm medium Fast",
       "isWicketKeeper": false,
-      "availableDates": "10 Jan, 17 Jan, 24 Jan, 31 Jan, 7 Feb, 14 Feb, 21 Feb, 28 Feb, 7 March, 14 March, 21 March, 28 March",
+      "availableDates": "Full Season",
       "basePrice": 1000,
       "status": "Available",
       "stats": {
@@ -18,13 +18,13 @@
       "image": "https://drive.google.com/thumbnail?id=1lWojeRwMLbPHT30xuncOj05PGmjz-nYc&sz=w1000"
     },
     {
-      "id": "p-import-1767292589131-1",
+      "id": "p-import-1767336338292-1",
       "name": "Nithin",
-      "role": "Batsman",
+      "role": "1000",
       "battingStyle": "Right handed",
       "bowlingStyle": "Right-arm medium Fast",
       "isWicketKeeper": false,
-      "availableDates": "10 Jan, 17 Jan, 31 Jan, 7 Feb, 14 Feb, 21 Feb, 7 March, 14 March, 28 March",
+      "availableDates": "Full Season",
       "basePrice": 1000,
       "status": "Available",
       "stats": {
@@ -35,64 +35,13 @@
       "image": "https://drive.google.com/thumbnail?id=1gTMy55y1PMqg4orEV5BJdStqjWFXeBcg&sz=w1000"
     },
     {
-      "id": "p-import-1767292589132-10",
-      "name": "VARUN",
-      "role": "Batsman",
-      "battingStyle": "Right handed",
-      "bowlingStyle": "Right-arm medium Fast",
-      "isWicketKeeper": true,
-      "availableDates": "10 Jan, 17 Jan, 31 Jan, 7 Feb, 14 Feb, 21 Feb, 7 March, 14 March, 21 March, 28 March",
-      "basePrice": 2000000,
-      "status": "Available",
-      "stats": {
-        "matches": 0,
-        "runs": 0,
-        "wickets": 0
-      },
-      "image": "https://drive.google.com/thumbnail?id=1kSKngUaBSsHa4tlad7kjByhivADJvwFB&sz=w1000"
-    },
-    {
-      "id": "p-import-1767292589132-11",
-      "name": "Rohit",
-      "role": "Batsman",
-      "battingStyle": "Right handed",
-      "bowlingStyle": "Right-arm Fast",
-      "isWicketKeeper": true,
-      "availableDates": "10 Jan, 17 Jan, 24 Jan, 31 Jan, 7 Feb, 14 Feb, 21 Feb, 28 Feb, 7 March, 14 March, 21 March",
-      "basePrice": 2000000,
-      "status": "Available",
-      "stats": {
-        "matches": 0,
-        "runs": 0,
-        "wickets": 0
-      },
-      "image": "https://drive.google.com/thumbnail?id=1dya2ltcVr9BlyGfgttFoHqzk5qPzkUoA&sz=w1000"
-    },
-    {
-      "id": "p-import-1767292589132-12",
-      "name": "Sarun P James",
-      "role": "Batsman",
-      "battingStyle": "Right handed",
-      "bowlingStyle": "Right-arm  fast",
-      "isWicketKeeper": false,
-      "availableDates": "10 Jan, 24 Jan, 31 Jan, 14 Feb, 21 Feb, 7 March, 21 March, 28 March",
-      "basePrice": 2000000,
-      "status": "Available",
-      "stats": {
-        "matches": 0,
-        "runs": 0,
-        "wickets": 0
-      },
-      "image": "https://drive.google.com/thumbnail?id=1JozH7cpLCKKKDEVt0qLUSloIXw-9e3dM&sz=w1000"
-    },
-    {
-      "id": "p-import-1767292589132-2",
+      "id": "p-import-1767336338292-2",
       "name": "AKHIL DEV",
-      "role": "Batsman",
+      "role": "1000",
       "battingStyle": "Right handed",
       "bowlingStyle": "Right-arm spin, Right-arm medium Fast",
       "isWicketKeeper": false,
-      "availableDates": "10 Jan, 17 Jan, 24 Jan, 7 Feb, 14 Feb, 21 Feb, 28 Feb, 14 March, 21 March, 28 March",
+      "availableDates": "Full Season",
       "basePrice": 1000,
       "status": "Available",
       "stats": {
@@ -103,13 +52,13 @@
       "image": "https://drive.google.com/thumbnail?id=1Yv-ZsiWeIypOx1IHg6FJ1ouO04bmfSq_&sz=w1000"
     },
     {
-      "id": "p-import-1767292589132-3",
+      "id": "p-import-1767336338293-3",
       "name": "George Zen Joe",
-      "role": "Batsman",
+      "role": "1000",
       "battingStyle": "Right handed",
       "bowlingStyle": "Right-arm medium Fast",
       "isWicketKeeper": true,
-      "availableDates": "10 Jan, 17 Jan, 24 Jan, 31 Jan, 7 Feb, 14 Feb, 21 Feb, 28 Feb, 7 March, 14 March, 21 March, 28 March",
+      "availableDates": "Full Season",
       "basePrice": 1000,
       "status": "Available",
       "stats": {
@@ -120,13 +69,13 @@
       "image": "https://drive.google.com/thumbnail?id=1P2QTmUElaTce5n8TshSRXPbAvdqeGiNK&sz=w1000"
     },
     {
-      "id": "p-import-1767292589132-4",
+      "id": "p-import-1767336338293-4",
       "name": "Sujith Chandran",
-      "role": "Batsman",
+      "role": "1000",
       "battingStyle": "Left Handed",
       "bowlingStyle": "Right-arm medium Fast",
       "isWicketKeeper": false,
-      "availableDates": "10 Jan, 17 Jan, 7 Feb, 14 Feb, 21 Feb, 28 Feb, 7 March, 14 March, 21 March, 28 March",
+      "availableDates": "Full Season",
       "basePrice": 1000,
       "status": "Available",
       "stats": {
@@ -137,13 +86,13 @@
       "image": "https://drive.google.com/thumbnail?id=1WtzeVzf-esYyNaNVSZLk2jBTJP3kyFZq&sz=w1000"
     },
     {
-      "id": "p-import-1767292589132-5",
+      "id": "p-import-1767336338293-5",
       "name": "Pani",
-      "role": "Batsman",
+      "role": "1000",
       "battingStyle": "Right handed",
       "bowlingStyle": "Right-arm medium Fast",
       "isWicketKeeper": false,
-      "availableDates": "10 Jan, 24 Jan, 31 Jan, 7 Feb, 14 Feb, 21 Feb, 28 Feb, 7 March, 14 March, 21 March, 28 March",
+      "availableDates": "Full Season",
       "basePrice": 1000,
       "status": "Available",
       "stats": {
@@ -154,13 +103,13 @@
       "image": "https://drive.google.com/thumbnail?id=131b-WHQPvmKLMux3Za4ZgI-5ZHMITUDa&sz=w1000"
     },
     {
-      "id": "p-import-1767292589132-6",
+      "id": "p-import-1767336338293-6",
       "name": "Anandhu",
-      "role": "Batsman",
+      "role": "1000",
       "battingStyle": "Right handed",
       "bowlingStyle": "Right-arm Fast",
       "isWicketKeeper": true,
-      "availableDates": "10 Jan, 17 Jan, 24 Jan, 31 Jan, 7 Feb, 14 Feb, 21 Feb, 28 Feb, 7 March, 14 March, 21 March, 28 March",
+      "availableDates": "Full Season",
       "basePrice": 1000,
       "status": "Available",
       "stats": {
@@ -171,15 +120,15 @@
       "image": "https://drive.google.com/thumbnail?id=1Jv0YqrXTNLMYVi7R3qwdWSdbgVuG0mKD&sz=w1000"
     },
     {
-      "id": "p-import-1767292589132-7",
+      "id": "p-import-1767336338293-7",
       "name": "Prasad Vg",
       "role": "Batsman",
       "battingStyle": "Right handed",
       "bowlingStyle": "Right-arm medium Fast",
       "isWicketKeeper": false,
-      "availableDates": "10 Jan, 17 Jan, 24 Jan, 31 Jan, 7 Feb, 14 Feb, 21 Feb, 28 Feb, 7 March, 14 March, 21 March, 28 March",
+      "availableDates": "Full Season",
       "basePrice": 2000000,
-      "status": "Unsold",
+      "status": "Available",
       "stats": {
         "matches": 0,
         "runs": 0,
@@ -188,13 +137,13 @@
       "image": "https://drive.google.com/thumbnail?id=1Y1Ef98vHpYOkKnUOougHYSK53mxnVRoc&sz=w1000"
     },
     {
-      "id": "p-import-1767292589132-8",
+      "id": "p-import-1767336338293-8",
       "name": "Ancil Stephen",
       "role": "Batsman",
       "battingStyle": "Right handed",
       "bowlingStyle": "Right-arm spin, Right-arm medium Fast",
       "isWicketKeeper": false,
-      "availableDates": "10 Jan, 17 Jan, 21 Feb, 28 Feb, 7 March, 14 March, 21 March, 28 March",
+      "availableDates": "Full Season",
       "basePrice": 2000000,
       "status": "Available",
       "stats": {
@@ -205,98 +154,13 @@
       "image": "https://drive.google.com/thumbnail?id=1wUywkj3YVCahDqcTNYsXjYx8enogCC7m&sz=w1000"
     },
     {
-      "id": "p-import-1767292589132-9",
-      "name": "Varun V Prabhu",
-      "role": "Batsman",
-      "battingStyle": "Right handed",
-      "bowlingStyle": "Right-arm medium Fast",
-      "isWicketKeeper": false,
-      "availableDates": "10 Jan, 17 Jan, 7 Feb, 14 Feb, 21 Feb, 28 Feb, 14 March, 21 March, 28 March",
-      "basePrice": 2000000,
-      "status": "Available",
-      "stats": {
-        "matches": 0,
-        "runs": 0,
-        "wickets": 0
-      },
-      "image": "https://drive.google.com/thumbnail?id=1INzWMLOesf2IissTvMMgM1EbAlsxn5vm&sz=w1000"
-    },
-    {
-      "id": "p-import-1767292589133-13",
-      "name": "Mithun Babu",
-      "role": "Batsman",
-      "battingStyle": "Right handed",
-      "bowlingStyle": "Left-arm medium Fast",
-      "isWicketKeeper": false,
-      "availableDates": "10 Jan, 17 Jan, 24 Jan, 31 Jan, 7 Feb, 14 Feb, 21 Feb, 28 Feb, 7 March, 14 March, 21 March, 28 March",
-      "basePrice": 2000000,
-      "status": "Available",
-      "stats": {
-        "matches": 0,
-        "runs": 0,
-        "wickets": 0
-      },
-      "image": "https://drive.google.com/thumbnail?id=1gHgxYGjpnoWTR6k4EOAhRDdtqrrntRWc&sz=w1000"
-    },
-    {
-      "id": "p-import-1767292589133-14",
-      "name": "Ajeesh V S",
-      "role": "Batsman",
-      "battingStyle": "Right handed",
-      "bowlingStyle": "Right-arm medium Fast",
-      "isWicketKeeper": false,
-      "availableDates": "17 Jan, 24 Jan, 7 Feb, 21 Feb, 28 Feb, 14 March, 21 March",
-      "basePrice": 2000000,
-      "status": "Available",
-      "stats": {
-        "matches": 0,
-        "runs": 0,
-        "wickets": 0
-      },
-      "image": "https://drive.google.com/thumbnail?id=1Zo3pZQKyvlW46zRlXfF82cfdzPKXJo6A&sz=w1000"
-    },
-    {
-      "id": "p-import-1767335882955-0",
-      "name": "Basil Jose",
-      "role": "Batsman",
-      "battingStyle": "Right handed",
-      "bowlingStyle": "Right-arm spin, Right-arm medium Fast",
-      "isWicketKeeper": false,
-      "availableDates": "10 Jan, 17 Jan, 24 Jan, 31 Jan, 7 Feb, 14 Feb, 21 Feb, 28 Feb, 7 March, 14 March, 21 March, 28 March",
-      "basePrice": 1000,
-      "status": "Available",
-      "stats": {
-        "matches": 0,
-        "runs": 0,
-        "wickets": 0
-      },
-      "image": "https://drive.google.com/thumbnail?id=1lWojeRwMLbPHT30xuncOj05PGmjz-nYc&sz=w1000"
-    },
-    {
-      "id": "p-import-1767335882955-1",
-      "name": "Nithin",
-      "role": "Batsman",
-      "battingStyle": "Right handed",
-      "bowlingStyle": "Right-arm medium Fast",
-      "isWicketKeeper": false,
-      "availableDates": "10 Jan, 17 Jan, 31 Jan, 7 Feb, 14 Feb, 21 Feb, 7 March, 14 March, 28 March",
-      "basePrice": 1000,
-      "status": "Available",
-      "stats": {
-        "matches": 0,
-        "runs": 0,
-        "wickets": 0
-      },
-      "image": "https://drive.google.com/thumbnail?id=1gTMy55y1PMqg4orEV5BJdStqjWFXeBcg&sz=w1000"
-    },
-    {
-      "id": "p-import-1767335882956-10",
+      "id": "p-import-1767336338294-10",
       "name": "VARUN",
       "role": "Batsman",
       "battingStyle": "Right handed",
       "bowlingStyle": "Right-arm medium Fast",
       "isWicketKeeper": true,
-      "availableDates": "10 Jan, 17 Jan, 31 Jan, 7 Feb, 14 Feb, 21 Feb, 7 March, 14 March, 21 March, 28 March",
+      "availableDates": "Full Season",
       "basePrice": 2000000,
       "status": "Available",
       "stats": {
@@ -307,149 +171,13 @@
       "image": "https://drive.google.com/thumbnail?id=1kSKngUaBSsHa4tlad7kjByhivADJvwFB&sz=w1000"
     },
     {
-      "id": "p-import-1767335882956-2",
-      "name": "AKHIL DEV",
-      "role": "Batsman",
-      "battingStyle": "Right handed",
-      "bowlingStyle": "Right-arm spin, Right-arm medium Fast",
-      "isWicketKeeper": false,
-      "availableDates": "10 Jan, 17 Jan, 24 Jan, 7 Feb, 14 Feb, 21 Feb, 28 Feb, 14 March, 21 March, 28 March",
-      "basePrice": 1000,
-      "status": "Available",
-      "stats": {
-        "matches": 0,
-        "runs": 0,
-        "wickets": 0
-      },
-      "image": "https://drive.google.com/thumbnail?id=1Yv-ZsiWeIypOx1IHg6FJ1ouO04bmfSq_&sz=w1000"
-    },
-    {
-      "id": "p-import-1767335882956-3",
-      "name": "George Zen Joe",
-      "role": "Batsman",
-      "battingStyle": "Right handed",
-      "bowlingStyle": "Right-arm medium Fast",
-      "isWicketKeeper": true,
-      "availableDates": "10 Jan, 17 Jan, 24 Jan, 31 Jan, 7 Feb, 14 Feb, 21 Feb, 28 Feb, 7 March, 14 March, 21 March, 28 March",
-      "basePrice": 1000,
-      "status": "Available",
-      "stats": {
-        "matches": 0,
-        "runs": 0,
-        "wickets": 0
-      },
-      "image": "https://drive.google.com/thumbnail?id=1P2QTmUElaTce5n8TshSRXPbAvdqeGiNK&sz=w1000"
-    },
-    {
-      "id": "p-import-1767335882956-4",
-      "name": "Sujith Chandran",
-      "role": "Batsman",
-      "battingStyle": "Left Handed",
-      "bowlingStyle": "Right-arm medium Fast",
-      "isWicketKeeper": false,
-      "availableDates": "10 Jan, 17 Jan, 7 Feb, 14 Feb, 21 Feb, 28 Feb, 7 March, 14 March, 21 March, 28 March",
-      "basePrice": 1000,
-      "status": "Available",
-      "stats": {
-        "matches": 0,
-        "runs": 0,
-        "wickets": 0
-      },
-      "image": "https://drive.google.com/thumbnail?id=1WtzeVzf-esYyNaNVSZLk2jBTJP3kyFZq&sz=w1000"
-    },
-    {
-      "id": "p-import-1767335882956-5",
-      "name": "Pani",
-      "role": "Batsman",
-      "battingStyle": "Right handed",
-      "bowlingStyle": "Right-arm medium Fast",
-      "isWicketKeeper": false,
-      "availableDates": "10 Jan, 24 Jan, 31 Jan, 7 Feb, 14 Feb, 21 Feb, 28 Feb, 7 March, 14 March, 21 March, 28 March",
-      "basePrice": 1000,
-      "status": "Available",
-      "stats": {
-        "matches": 0,
-        "runs": 0,
-        "wickets": 0
-      },
-      "image": "https://drive.google.com/thumbnail?id=131b-WHQPvmKLMux3Za4ZgI-5ZHMITUDa&sz=w1000"
-    },
-    {
-      "id": "p-import-1767335882956-6",
-      "name": "Anandhu",
-      "role": "Batsman",
-      "battingStyle": "Right handed",
-      "bowlingStyle": "Right-arm Fast",
-      "isWicketKeeper": true,
-      "availableDates": "10 Jan, 17 Jan, 24 Jan, 31 Jan, 7 Feb, 14 Feb, 21 Feb, 28 Feb, 7 March, 14 March, 21 March, 28 March",
-      "basePrice": 1000,
-      "status": "Available",
-      "stats": {
-        "matches": 0,
-        "runs": 0,
-        "wickets": 0
-      },
-      "image": "https://drive.google.com/thumbnail?id=1Jv0YqrXTNLMYVi7R3qwdWSdbgVuG0mKD&sz=w1000"
-    },
-    {
-      "id": "p-import-1767335882956-7",
-      "name": "Prasad Vg",
-      "role": "Batsman",
-      "battingStyle": "Right handed",
-      "bowlingStyle": "Right-arm medium Fast",
-      "isWicketKeeper": false,
-      "availableDates": "10 Jan, 17 Jan, 24 Jan, 31 Jan, 7 Feb, 14 Feb, 21 Feb, 28 Feb, 7 March, 14 March, 21 March, 28 March",
-      "basePrice": 2000000,
-      "status": "Available",
-      "stats": {
-        "matches": 0,
-        "runs": 0,
-        "wickets": 0
-      },
-      "image": "https://drive.google.com/thumbnail?id=1Y1Ef98vHpYOkKnUOougHYSK53mxnVRoc&sz=w1000"
-    },
-    {
-      "id": "p-import-1767335882956-8",
-      "name": "Ancil Stephen",
-      "role": "Batsman",
-      "battingStyle": "Right handed",
-      "bowlingStyle": "Right-arm spin, Right-arm medium Fast",
-      "isWicketKeeper": false,
-      "availableDates": "10 Jan, 17 Jan, 21 Feb, 28 Feb, 7 March, 14 March, 21 March, 28 March",
-      "basePrice": 2000000,
-      "status": "Available",
-      "stats": {
-        "matches": 0,
-        "runs": 0,
-        "wickets": 0
-      },
-      "image": "https://drive.google.com/thumbnail?id=1wUywkj3YVCahDqcTNYsXjYx8enogCC7m&sz=w1000"
-    },
-    {
-      "id": "p-import-1767335882956-9",
-      "name": "Varun V Prabhu",
-      "role": "Batsman",
-      "battingStyle": "Right handed",
-      "bowlingStyle": "Right-arm medium Fast",
-      "isWicketKeeper": false,
-      "availableDates": "10 Jan, 17 Jan, 7 Feb, 14 Feb, 21 Feb, 28 Feb, 14 March, 21 March, 28 March",
-      "basePrice": 2000000,
-      "status": "Available",
-      "stats": {
-        "matches": 0,
-        "runs": 0,
-        "wickets": 0
-      },
-      "image": "https://drive.google.com/thumbnail?id=1INzWMLOesf2IissTvMMgM1EbAlsxn5vm&sz=w1000"
-    },
-    {
-      "id": "p-import-1767335882957-11",
+      "id": "p-import-1767336338294-11",
       "name": "Rohit",
       "role": "Batsman",
       "battingStyle": "Right handed",
       "bowlingStyle": "Right-arm Fast",
       "isWicketKeeper": true,
-      "availableDates": "10 Jan, 17 Jan, 24 Jan, 31 Jan, 7 Feb, 14 Feb, 21 Feb, 28 Feb, 7 March, 14 March, 21 March",
+      "availableDates": "Full Season",
       "basePrice": 2000000,
       "status": "Available",
       "stats": {
@@ -460,13 +188,13 @@
       "image": "https://drive.google.com/thumbnail?id=1dya2ltcVr9BlyGfgttFoHqzk5qPzkUoA&sz=w1000"
     },
     {
-      "id": "p-import-1767335882957-12",
+      "id": "p-import-1767336338294-12",
       "name": "Sarun P James",
       "role": "Batsman",
       "battingStyle": "Right handed",
       "bowlingStyle": "Right-arm  fast",
       "isWicketKeeper": false,
-      "availableDates": "10 Jan, 24 Jan, 31 Jan, 14 Feb, 21 Feb, 7 March, 21 March, 28 March",
+      "availableDates": "Full Season",
       "basePrice": 2000000,
       "status": "Available",
       "stats": {
@@ -477,13 +205,13 @@
       "image": "https://drive.google.com/thumbnail?id=1JozH7cpLCKKKDEVt0qLUSloIXw-9e3dM&sz=w1000"
     },
     {
-      "id": "p-import-1767335882957-13",
+      "id": "p-import-1767336338294-13",
       "name": "Mithun Babu",
       "role": "Batsman",
       "battingStyle": "Right handed",
       "bowlingStyle": "Left-arm medium Fast",
       "isWicketKeeper": false,
-      "availableDates": "10 Jan, 17 Jan, 24 Jan, 31 Jan, 7 Feb, 14 Feb, 21 Feb, 28 Feb, 7 March, 14 March, 21 March, 28 March",
+      "availableDates": "Full Season",
       "basePrice": 2000000,
       "status": "Available",
       "stats": {
@@ -494,13 +222,13 @@
       "image": "https://drive.google.com/thumbnail?id=1gHgxYGjpnoWTR6k4EOAhRDdtqrrntRWc&sz=w1000"
     },
     {
-      "id": "p-import-1767335882957-14",
+      "id": "p-import-1767336338294-14",
       "name": "Ajeesh V S",
       "role": "Batsman",
       "battingStyle": "Right handed",
       "bowlingStyle": "Right-arm medium Fast",
       "isWicketKeeper": false,
-      "availableDates": "17 Jan, 24 Jan, 7 Feb, 21 Feb, 28 Feb, 14 March, 21 March",
+      "availableDates": "Full Season",
       "basePrice": 2000000,
       "status": "Available",
       "stats": {
@@ -511,13 +239,13 @@
       "image": "https://drive.google.com/thumbnail?id=1Zo3pZQKyvlW46zRlXfF82cfdzPKXJo6A&sz=w1000"
     },
     {
-      "id": "p-import-1767335882957-15",
+      "id": "p-import-1767336338294-15",
       "name": "Vishnu P",
       "role": "Batsman",
       "battingStyle": "Right handed",
       "bowlingStyle": "Right-arm medium Fast",
       "isWicketKeeper": false,
-      "availableDates": "10 Jan, 17 Jan, 24 Jan, 31 Jan, 7 Feb, 21 Feb, 28 Feb, 7 March, 14 March, 21 March, 28 March",
+      "availableDates": "Full Season",
       "basePrice": 2000000,
       "status": "Available",
       "stats": {
@@ -528,13 +256,13 @@
       "image": "https://drive.google.com/thumbnail?id=1SpV8fexLhAEogjFF3tL-Cw7w8vuCqrt7&sz=w1000"
     },
     {
-      "id": "p-import-1767335882957-16",
+      "id": "p-import-1767336338294-16",
       "name": "Gokul Dileep",
       "role": "Batsman",
       "battingStyle": "Right handed",
       "bowlingStyle": "Right-arm medium Fast",
       "isWicketKeeper": true,
-      "availableDates": "17 Jan, 24 Jan, 31 Jan, 7 Feb, 14 Feb, 21 Feb, 28 Feb, 7 March, 14 March, 21 March, 28 March",
+      "availableDates": "Full Season",
       "basePrice": 2000000,
       "status": "Available",
       "stats": {
@@ -545,13 +273,30 @@
       "image": "https://drive.google.com/thumbnail?id=1gPnXSnoCfHNNQNce_4NPMXbRAxJj0IIx&sz=w1000"
     },
     {
-      "id": "p-import-1767335882957-17",
+      "id": "p-import-1767336338294-9",
+      "name": "Varun V Prabhu",
+      "role": "Batsman",
+      "battingStyle": "Right handed",
+      "bowlingStyle": "Right-arm medium Fast",
+      "isWicketKeeper": false,
+      "availableDates": "Full Season",
+      "basePrice": 2000000,
+      "status": "Available",
+      "stats": {
+        "matches": 0,
+        "runs": 0,
+        "wickets": 0
+      },
+      "image": "https://drive.google.com/thumbnail?id=1INzWMLOesf2IissTvMMgM1EbAlsxn5vm&sz=w1000"
+    },
+    {
+      "id": "p-import-1767336338295-17",
       "name": "Abel Geev Mathews",
       "role": "Batsman",
       "battingStyle": "Right handed",
       "bowlingStyle": "Right-arm medium Fast",
       "isWicketKeeper": true,
-      "availableDates": "10 Jan, 24 Jan, 31 Jan, 7 Feb, 21 Feb, 7 March, 21 March, 28 March",
+      "availableDates": "Full Season",
       "basePrice": 2000000,
       "status": "Available",
       "stats": {
@@ -562,13 +307,13 @@
       "image": "https://drive.google.com/thumbnail?id=122C95zXYOWXwY08Z-Cn9xiIO1dPrAWQa&sz=w1000"
     },
     {
-      "id": "p-import-1767335882957-18",
+      "id": "p-import-1767336338295-18",
       "name": "Basil Sabu",
       "role": "Batsman",
       "battingStyle": "Right handed",
       "bowlingStyle": "Right-arm  fast",
       "isWicketKeeper": false,
-      "availableDates": "10 Jan, 17 Jan, 24 Jan, 31 Jan, 7 Feb, 14 Feb, 21 Feb, 28 Feb, 7 March, 14 March, 21 March, 28 March",
+      "availableDates": "Full Season",
       "basePrice": 2000000,
       "status": "Available",
       "stats": {
@@ -579,13 +324,13 @@
       "image": "https://drive.google.com/thumbnail?id=1opETt9Ilf51GKo_XjLdadg4VOQ-5fncg&sz=w1000"
     },
     {
-      "id": "p-import-1767335882957-19",
+      "id": "p-import-1767336338295-19",
       "name": "Kiran",
       "role": "Batsman",
       "battingStyle": "Right handed",
       "bowlingStyle": "Right-arm medium Fast",
       "isWicketKeeper": false,
-      "availableDates": "10 Jan, 17 Jan, 24 Jan, 31 Jan, 7 Feb, 14 Feb, 21 Feb, 28 Feb, 7 March, 14 March, 21 March, 28 March",
+      "availableDates": "Full Season",
       "basePrice": 2000000,
       "status": "Available",
       "stats": {
@@ -596,13 +341,13 @@
       "image": "https://drive.google.com/thumbnail?id=1uTBGJjWNqPNHPGCshdUzdeZn1SshoyBg&sz=w1000"
     },
     {
-      "id": "p-import-1767335882957-20",
+      "id": "p-import-1767336338295-20",
       "name": "Santhosh K Guptha",
       "role": "Batsman",
       "battingStyle": "Right handed",
       "bowlingStyle": "Right-arm medium Fast",
       "isWicketKeeper": false,
-      "availableDates": "10 Jan, 17 Jan, 24 Jan, 31 Jan, 7 Feb, 14 Feb, 21 Feb, 28 Feb, 7 March, 14 March, 21 March, 28 March",
+      "availableDates": "Full Season",
       "basePrice": 2000000,
       "status": "Available",
       "stats": {
@@ -613,13 +358,13 @@
       "image": "https://drive.google.com/thumbnail?id=1-YWdRXLvPdaqpphcD26fnq1MoNb28h9T&sz=w1000"
     },
     {
-      "id": "p-import-1767335882957-21",
+      "id": "p-import-1767336338295-21",
       "name": "Thaha",
       "role": "Batsman",
       "battingStyle": "Right handed",
       "bowlingStyle": "Right-arm medium Fast",
       "isWicketKeeper": true,
-      "availableDates": "10 Jan, 24 Jan, 31 Jan, 7 Feb, 14 Feb, 21 Feb, 28 Feb, 7 March, 14 March, 28 March",
+      "availableDates": "Full Season",
       "basePrice": 2000000,
       "status": "Available",
       "stats": {
@@ -627,16 +372,16 @@
         "runs": 0,
         "wickets": 0
       },
-      "image": "https://picsum.photos/seed/import-21-1767335882957/400/500"
+      "image": "https://picsum.photos/seed/import-21-1767336338295/400/500"
     },
     {
-      "id": "p-import-1767335882957-22",
+      "id": "p-import-1767336338295-22",
       "name": "ANISH V T",
       "role": "Batsman",
       "battingStyle": "Right handed",
       "bowlingStyle": "Right-arm medium Fast",
       "isWicketKeeper": false,
-      "availableDates": "10 Jan, 17 Jan, 31 Jan, 14 Feb, 21 Feb, 28 Feb, 7 March, 14 March, 21 March, 28 March",
+      "availableDates": "Full Season",
       "basePrice": 2000000,
       "status": "Available",
       "stats": {
@@ -647,13 +392,13 @@
       "image": "https://drive.google.com/thumbnail?id=10OBrNQWrNrYdTU3EzSAETlTt1KaTPccK&sz=w1000"
     },
     {
-      "id": "p-import-1767335882957-23",
+      "id": "p-import-1767336338295-23",
       "name": "Vishnu Prasad",
       "role": "Batsman",
       "battingStyle": "Right handed",
       "bowlingStyle": "Right-arm medium Fast",
       "isWicketKeeper": true,
-      "availableDates": "10 Jan, 17 Jan, 14 Feb, 21 Feb, 28 Feb, 7 March, 14 March, 21 March, 28 March",
+      "availableDates": "Full Season",
       "basePrice": 2000000,
       "status": "Available",
       "stats": {
@@ -664,13 +409,13 @@
       "image": "https://drive.google.com/thumbnail?id=1aZ9Ol2CpOAUL4TRkKHquxuZE1p1AlrQM&sz=w1000"
     },
     {
-      "id": "p-import-1767335882957-24",
+      "id": "p-import-1767336338295-24",
       "name": "Abin Jose",
       "role": "Batsman",
       "battingStyle": "Left Handed",
       "bowlingStyle": "Right-arm spin",
       "isWicketKeeper": false,
-      "availableDates": "10 Jan, 17 Jan, 31 Jan, 7 Feb, 21 Feb, 28 Feb, 21 March, 28 March",
+      "availableDates": "Full Season",
       "basePrice": 2000000,
       "status": "Available",
       "stats": {
@@ -681,13 +426,13 @@
       "image": "https://drive.google.com/thumbnail?id=1Fk12qChQJiMWxZCnYN5XmzwLvIlAy3W2&sz=w1000"
     },
     {
-      "id": "p-import-1767335882957-25",
+      "id": "p-import-1767336338295-25",
       "name": "Sandesh PM",
       "role": "Batsman",
       "battingStyle": "Right handed",
       "bowlingStyle": "Right-arm medium Fast",
       "isWicketKeeper": true,
-      "availableDates": "10 Jan, 17 Jan, 24 Jan, 14 Feb, 21 Feb, 28 Feb, 7 March, 21 March, 28 March",
+      "availableDates": "Full Season",
       "basePrice": 2000000,
       "status": "Available",
       "stats": {
@@ -698,13 +443,13 @@
       "image": "https://drive.google.com/thumbnail?id=18MgqOoomjMvmZ1wzg0ZMVrWU2FR3NP1L&sz=w1000"
     },
     {
-      "id": "p-import-1767335882957-26",
+      "id": "p-import-1767336338295-26",
       "name": "Rajasekharan P",
       "role": "Batsman",
       "battingStyle": "Right handed",
       "bowlingStyle": "Right-arm spin",
       "isWicketKeeper": false,
-      "availableDates": "10 Jan, 17 Jan, 24 Jan, 14 Feb, 21 Feb, 7 March, 14 March, 28 March",
+      "availableDates": "Full Season",
       "basePrice": 2000000,
       "status": "Available",
       "stats": {
@@ -715,13 +460,13 @@
       "image": "https://drive.google.com/thumbnail?id=1G2lRW2aTzpfs_vCoXHbyVsV6Wchigtiy&sz=w1000"
     },
     {
-      "id": "p-import-1767335882958-27",
+      "id": "p-import-1767336338295-27",
       "name": "Hariharan",
       "role": "Batsman",
       "battingStyle": "Right handed",
       "bowlingStyle": "Right-arm  fast",
       "isWicketKeeper": true,
-      "availableDates": "10 Jan, 17 Jan, 24 Jan, 31 Jan, 7 Feb, 14 Feb, 21 Feb, 28 Feb, 7 March, 14 March, 21 March, 28 March",
+      "availableDates": "Full Season",
       "basePrice": 2000000,
       "status": "Available",
       "stats": {
@@ -732,13 +477,13 @@
       "image": "https://drive.google.com/thumbnail?id=1rlwK0Tx1r1YdeBj3HOTJjS-mcu8PNWIo&sz=w1000"
     },
     {
-      "id": "p-import-1767335882958-28",
+      "id": "p-import-1767336338296-28",
       "name": "Anish Rao",
       "role": "Batsman",
       "battingStyle": "Right handed",
       "bowlingStyle": "Right-arm medium Fast",
       "isWicketKeeper": false,
-      "availableDates": "10 Jan, 17 Jan, 24 Jan, 31 Jan, 7 Feb, 14 Feb, 21 Feb, 28 Feb, 7 March, 14 March, 21 March, 28 March",
+      "availableDates": "Full Season",
       "basePrice": 2000000,
       "status": "Available",
       "stats": {
@@ -749,13 +494,13 @@
       "image": "https://drive.google.com/thumbnail?id=1bQ8P-oNwwq9OAQQsjRHexmNxPUoi52Y2&sz=w1000"
     },
     {
-      "id": "p-import-1767335882958-29",
+      "id": "p-import-1767336338296-29",
       "name": "Purushotham",
       "role": "Batsman",
       "battingStyle": "Right handed",
       "bowlingStyle": "Right-arm medium Fast",
       "isWicketKeeper": true,
-      "availableDates": "10 Jan, 24 Jan, 31 Jan, 7 Feb, 14 Feb, 21 Feb, 28 Feb, 7 March, 14 March, 21 March, 28 March",
+      "availableDates": "Full Season",
       "basePrice": 2000000,
       "status": "Available",
       "stats": {
@@ -766,13 +511,13 @@
       "image": "https://drive.google.com/thumbnail?id=1FRUIlH7UA2ZrL7qHRmsv7fG7nVpz7yTi&sz=w1000"
     },
     {
-      "id": "p-import-1767335882958-30",
+      "id": "p-import-1767336338296-30",
       "name": "Suriya",
       "role": "Batsman",
       "battingStyle": "Right handed",
       "bowlingStyle": "Right-arm medium Fast",
       "isWicketKeeper": true,
-      "availableDates": "24 Jan, 31 Jan, 7 Feb, 14 Feb, 21 Feb, 28 Feb, 7 March, 14 March, 21 March",
+      "availableDates": "Full Season",
       "basePrice": 2000000,
       "status": "Available",
       "stats": {
@@ -780,7 +525,41 @@
         "runs": 0,
         "wickets": 0
       },
-      "image": "https://picsum.photos/seed/import-30-1767335882958/400/500"
+      "image": "https://picsum.photos/seed/import-30-1767336338296/400/500"
+    },
+    {
+      "id": "p-import-1767336338296-31",
+      "name": "Nakul Meleth",
+      "role": "Batsman",
+      "battingStyle": "Right handed",
+      "bowlingStyle": "Right-arm  fast",
+      "isWicketKeeper": false,
+      "availableDates": "Full Season",
+      "basePrice": 2000000,
+      "status": "Available",
+      "stats": {
+        "matches": 0,
+        "runs": 0,
+        "wickets": 0
+      },
+      "image": "https://drive.google.com/thumbnail?id=1t5IXl3N_r_kVFdfsp50nSfg8DktMx08w&sz=w1000"
+    },
+    {
+      "id": "p-import-1767336338296-32",
+      "name": "Rohit R",
+      "role": "Batsman",
+      "battingStyle": "Right handed",
+      "bowlingStyle": "Right-arm medium Fast",
+      "isWicketKeeper": false,
+      "availableDates": "Full Season",
+      "basePrice": 2000000,
+      "status": "Available",
+      "stats": {
+        "matches": 0,
+        "runs": 0,
+        "wickets": 0
+      },
+      "image": "https://drive.google.com/thumbnail?id=1Hi9I6RWL6PDcO4Mo5SzOfWAuQ0Q_yopL&sz=w1000"
     }
   ],
   "teams": [
@@ -788,41 +567,37 @@
       "id": "t1",
       "name": "Mumbai Titans",
       "owner": "R. Ambani",
-      "budget": 10000,
-      "maxBudget": 10000,
+      "budget": 1000,
+      "maxBudget": 1000,
       "players": [],
-      "color": "bg-blue-600",
-      "iconPlayer": ""
+      "color": "bg-blue-600"
     },
     {
       "id": "t2",
       "name": "Chennai Kings",
       "owner": "N. Srinivasan",
-      "budget": 10000,
-      "maxBudget": 10000,
+      "budget": 1000,
+      "maxBudget": 1000,
       "players": [],
-      "color": "bg-yellow-500",
-      "iconPlayer": ""
+      "color": "bg-yellow-500"
     },
     {
       "id": "t3",
       "name": "Bangalore Blasters",
       "owner": "Vijay M.",
-      "budget": 10000,
-      "maxBudget": 10000,
+      "budget": 1000,
+      "maxBudget": 1000,
       "players": [],
-      "color": "bg-red-600",
-      "iconPlayer": ""
+      "color": "bg-red-600"
     },
     {
       "id": "t4",
       "name": "Delhi Capitals",
       "owner": "Jindal G.",
-      "budget": 10000,
-      "maxBudget": 10000,
+      "budget": 1000,
+      "maxBudget": 1000,
       "players": [],
-      "color": "bg-indigo-600",
-      "iconPlayer": ""
+      "color": "bg-indigo-600"
     }
   ]
 }
