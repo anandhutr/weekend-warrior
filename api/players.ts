@@ -1,4 +1,4 @@
-import clientPromise from './db';
+import clientPromise from './db.js';
 import { VercelRequest, VercelResponse } from '@vercel/node';
 import { ObjectId } from 'mongodb';
 
@@ -55,7 +55,6 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
             res.status(200).json({ message: 'Player deleted' });
         } else {
             // Delete all (if explicitly requested via a query param or body, but for safety let's require a specific flag)
-            // For now, let's assume this endpoint is only for single delete unless we add a 'deleteAll' param
             if (req.query.all === 'true') {
                 await collection.deleteMany({});
                 res.status(200).json({ message: 'All players deleted' });

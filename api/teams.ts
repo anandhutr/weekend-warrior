@@ -1,4 +1,4 @@
-import clientPromise from './db';
+import clientPromise from './db.js';
 import { VercelRequest, VercelResponse } from '@vercel/node';
 import { ObjectId } from 'mongodb';
 
