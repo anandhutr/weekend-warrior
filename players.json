@@ -1,0 +1,937 @@
+[
+  {
+    "id": "p-import-1767454006039-0",
+    "name": "Basil Jose",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm spin, Right-arm medium Fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 72,
+      "runs": 93,
+      "wickets": 56
+    },
+    "image": "https://drive.google.com/thumbnail?id=1lWojeRwMLbPHT30xuncOj05PGmjz-nYc&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006040-1",
+    "name": "Nithin",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 128,
+      "runs": 1145,
+      "wickets": 74
+    },
+    "image": "https://drive.google.com/thumbnail?id=1gTMy55y1PMqg4orEV5BJdStqjWFXeBcg&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006040-2",
+    "name": "AKHIL DEV",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm spin, Right-arm medium Fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 133,
+      "runs": 1616,
+      "wickets": 53
+    },
+    "image": "https://drive.google.com/thumbnail?id=1Yv-ZsiWeIypOx1IHg6FJ1ouO04bmfSq_&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006040-3",
+    "name": "George Zen Joe",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": true,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 77,
+      "runs": 414,
+      "wickets": 16
+    },
+    "image": "https://drive.google.com/thumbnail?id=1P2QTmUElaTce5n8TshSRXPbAvdqeGiNK&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006040-4",
+    "name": "Sujith Chandran",
+    "role": "Batsman",
+    "battingStyle": "Left Handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 77,
+      "runs": 267,
+      "wickets": 19
+    },
+    "image": "https://drive.google.com/thumbnail?id=1WtzeVzf-esYyNaNVSZLk2jBTJP3kyFZq&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006040-5",
+    "name": "Pani",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 61,
+      "runs": 157,
+      "wickets": 19
+    },
+    "image": "https://drive.google.com/thumbnail?id=131b-WHQPvmKLMux3Za4ZgI-5ZHMITUDa&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006040-6",
+    "name": "Anandhu",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm Fast",
+    "isWicketKeeper": true,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 97,
+      "runs": 581,
+      "wickets": 8
+    },
+    "image": "https://drive.google.com/thumbnail?id=1Jv0YqrXTNLMYVi7R3qwdWSdbgVuG0mKD&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006040-7",
+    "name": "Prasad Vg",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 135,
+      "runs": 859,
+      "wickets": 60
+    },
+    "image": "https://drive.google.com/thumbnail?id=1Y1Ef98vHpYOkKnUOougHYSK53mxnVRoc&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006040-8",
+    "name": "Ancil Stephen",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm spin, Right-arm medium Fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 28,
+      "runs": 51,
+      "wickets": 3
+    },
+    "image": "https://drive.google.com/thumbnail?id=1wUywkj3YVCahDqcTNYsXjYx8enogCC7m&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006041-10",
+    "name": "VARUN",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": true,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 14,
+      "runs": 52,
+      "wickets": 3
+    },
+    "image": "https://drive.google.com/thumbnail?id=1kSKngUaBSsHa4tlad7kjByhivADJvwFB&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006041-11",
+    "name": "Rohit",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm Fast",
+    "isWicketKeeper": true,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 96,
+      "runs": 1365,
+      "wickets": 1
+    },
+    "image": "https://drive.google.com/thumbnail?id=1NW5rE7W3JOvME_OxM0ClFVvG9Zk2fco7&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006041-12",
+    "name": "Sarun P James",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm  fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 36,
+      "runs": 317,
+      "wickets": 19
+    },
+    "image": "https://drive.google.com/thumbnail?id=1JozH7cpLCKKKDEVt0qLUSloIXw-9e3dM&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006041-13",
+    "name": "Mithun Babu",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Left-arm medium Fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 36,
+      "runs": 76,
+      "wickets": 5
+    },
+    "image": "https://drive.google.com/thumbnail?id=1gHgxYGjpnoWTR6k4EOAhRDdtqrrntRWc&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006041-14",
+    "name": "Ajeesh V S",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 34,
+      "runs": 94,
+      "wickets": 13
+    },
+    "image": "https://drive.google.com/thumbnail?id=1Zo3pZQKyvlW46zRlXfF82cfdzPKXJo6A&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006041-15",
+    "name": "Vishnu P",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 36,
+      "runs": 20,
+      "wickets": 10
+    },
+    "image": "https://drive.google.com/thumbnail?id=1SpV8fexLhAEogjFF3tL-Cw7w8vuCqrt7&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006041-16",
+    "name": "Gokul Dileep",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": true,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 75,
+      "runs": 245,
+      "wickets": 32
+    },
+    "image": "https://drive.google.com/thumbnail?id=1gPnXSnoCfHNNQNce_4NPMXbRAxJj0IIx&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006041-17",
+    "name": "Abel Geev Mathews",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": true,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 134,
+      "runs": 2478,
+      "wickets": 33
+    },
+    "image": "https://drive.google.com/thumbnail?id=122C95zXYOWXwY08Z-Cn9xiIO1dPrAWQa&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006041-18",
+    "name": "Basil Sabu",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm  fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 31,
+      "runs": 78,
+      "wickets": 20
+    },
+    "image": "https://drive.google.com/thumbnail?id=1opETt9Ilf51GKo_XjLdadg4VOQ-5fncg&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006041-19",
+    "name": "Kiran",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 7,
+      "runs": 4,
+      "wickets": 6
+    },
+    "image": "https://drive.google.com/thumbnail?id=1uTBGJjWNqPNHPGCshdUzdeZn1SshoyBg&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006041-20",
+    "name": "Santhosh K Guptha",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 17,
+      "runs": 61,
+      "wickets": 6
+    },
+    "image": "https://drive.google.com/thumbnail?id=1-YWdRXLvPdaqpphcD26fnq1MoNb28h9T&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006041-21",
+    "name": "Thaha",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": true,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 51,
+      "runs": 442,
+      "wickets": 21
+    },
+    "image": "https://drive.google.com/thumbnail?id=13YEPFXGWZ-YxSM2RUDgxniEcPRZJuoUl&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006041-22",
+    "name": "ANISH V T",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 84,
+      "runs": 821,
+      "wickets": 24
+    },
+    "image": "https://drive.google.com/thumbnail?id=10OBrNQWrNrYdTU3EzSAETlTt1KaTPccK&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006041-23",
+    "name": "Vishnu Prasad",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": true,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 24,
+      "runs": 127,
+      "wickets": 5
+    },
+    "image": "https://drive.google.com/thumbnail?id=1aZ9Ol2CpOAUL4TRkKHquxuZE1p1AlrQM&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006041-24",
+    "name": "Abin Jose",
+    "role": "Batsman",
+    "battingStyle": "Left Handed",
+    "bowlingStyle": "Right-arm spin",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 6,
+      "runs": 0,
+      "wickets": 0
+    },
+    "image": "https://drive.google.com/thumbnail?id=1Fk12qChQJiMWxZCnYN5XmzwLvIlAy3W2&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006041-25",
+    "name": "Sandesh PM",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": true,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 131,
+      "runs": 1522,
+      "wickets": 41
+    },
+    "image": "https://drive.google.com/thumbnail?id=18MgqOoomjMvmZ1wzg0ZMVrWU2FR3NP1L&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006041-26",
+    "name": "Rajasekharan P",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm spin",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 71,
+      "runs": 269,
+      "wickets": 15
+    },
+    "image": "https://drive.google.com/thumbnail?id=1G2lRW2aTzpfs_vCoXHbyVsV6Wchigtiy&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006041-27",
+    "name": "Hariharan",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm  fast",
+    "isWicketKeeper": true,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 203,
+      "runs": 407,
+      "wickets": 106
+    },
+    "image": "https://drive.google.com/thumbnail?id=1rlwK0Tx1r1YdeBj3HOTJjS-mcu8PNWIo&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006041-28",
+    "name": "Anish Rao",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 0,
+      "runs": 0,
+      "wickets": 0
+    },
+    "image": "https://drive.google.com/thumbnail?id=1bQ8P-oNwwq9OAQQsjRHexmNxPUoi52Y2&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006041-29",
+    "name": "Purushotham",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": true,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 69,
+      "runs": 517,
+      "wickets": 23
+    },
+    "image": "https://drive.google.com/thumbnail?id=1FRUIlH7UA2ZrL7qHRmsv7fG7nVpz7yTi&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006041-30",
+    "name": "Suriya",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": true,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 28,
+      "runs": 96,
+      "wickets": 2
+    },
+    "image": "https://picsum.photos/seed/import-30-1767454006041/400/500"
+  },
+  {
+    "id": "p-import-1767454006041-31",
+    "name": "Nakul Meleth",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm  fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 70,
+      "runs": 387,
+      "wickets": 21
+    },
+    "image": "https://drive.google.com/thumbnail?id=1t5IXl3N_r_kVFdfsp50nSfg8DktMx08w&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006041-32",
+    "name": "Rohit R",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 102,
+      "runs": 1109,
+      "wickets": 18
+    },
+    "image": "https://drive.google.com/thumbnail?id=1Hi9I6RWL6PDcO4Mo5SzOfWAuQ0Q_yopL&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006041-33",
+    "name": "Thushar P T",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm  fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 55,
+      "runs": 226,
+      "wickets": 29
+    },
+    "image": "https://drive.google.com/thumbnail?id=1gnSVOmcj9C467HLGDgjnuEaVK9DQNle_&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006041-34",
+    "name": "Sreejith P S",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 65,
+      "runs": 161,
+      "wickets": 27
+    },
+    "image": "https://drive.google.com/thumbnail?id=1E5_7zxfD0o0o4smiAqd3-zunfJPRMHMw&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006041-35",
+    "name": "Nighil",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": true,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 41,
+      "runs": 417,
+      "wickets": 9
+    },
+    "image": "https://drive.google.com/thumbnail?id=1aEVwJFAhQN5E-uhI8QJBy27Bhr3-uWMi&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006041-36",
+    "name": "Anish Krishnan S",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": true,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 35,
+      "runs": 256,
+      "wickets": 1
+    },
+    "image": "https://drive.google.com/thumbnail?id=14qTKnBi5v8mM9z0QrNkaw5m8ckXhczUp&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006041-9",
+    "name": "Varun V Prabhu",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 243,
+      "runs": 1575,
+      "wickets": 14
+    },
+    "image": "https://drive.google.com/thumbnail?id=1INzWMLOesf2IissTvMMgM1EbAlsxn5vm&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006042-37",
+    "name": "Aswanth",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 114,
+      "runs": 344,
+      "wickets": 56
+    },
+    "image": "IMG-20251213-WA0052 - Ashwant Kaimal.jpg"
+  },
+  {
+    "id": "p-import-1767454006042-38",
+    "name": "Sandeepkrishnan S",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 74,
+      "runs": 130,
+      "wickets": 19
+    },
+    "image": "https://drive.google.com/thumbnail?id=1b8j3Yje8gVMkpxsKk0VLyZqAhUop22AQ&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006042-39",
+    "name": "Anto Benil",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm spin",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 78,
+      "runs": 373,
+      "wickets": 22
+    },
+    "image": "https://picsum.photos/seed/import-39-1767454006042/400/500"
+  },
+  {
+    "id": "p-import-1767454006042-40",
+    "name": "Binu krishnan",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm  fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 35,
+      "runs": 147,
+      "wickets": 14
+    },
+    "image": "https://drive.google.com/thumbnail?id=1D06nm0kWUOyf2YbASz5CZehQAXsNyqjA&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006042-41",
+    "name": "Arjun m",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 51,
+      "runs": 160,
+      "wickets": 13
+    },
+    "image": "https://drive.google.com/thumbnail?id=1YXUvGb417oMVz-PIykkjLEKTgADBnP5G&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006042-42",
+    "name": "Akhil S S",
+    "role": "Batsman",
+    "battingStyle": "Left Handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 16,
+      "runs": 51,
+      "wickets": 4
+    },
+    "image": "https://drive.google.com/thumbnail?id=1LJge7RIxXJykHcHyxd4UlOdOkKPB5JS1&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006042-43",
+    "name": "Albin Varghese",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm spin, Right-arm medium Fast",
+    "isWicketKeeper": true,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 31,
+      "runs": 162,
+      "wickets": 4
+    },
+    "image": "https://drive.google.com/thumbnail?id=10pGHKf9Y9AfNprcO-iRrwydu0YrjpJIG&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006042-44",
+    "name": "Jaiprakash",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 0,
+      "runs": 0,
+      "wickets": 0
+    },
+    "image": "https://picsum.photos/seed/import-44-1767454006042/400/500"
+  },
+  {
+    "id": "p-import-1767454006042-45",
+    "name": "Akhil Sarasan",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 0,
+      "runs": 0,
+      "wickets": 0
+    },
+    "image": "https://drive.google.com/thumbnail?id=1X9lLL-qf6RDhIGx2I71GKyToswtOIajp&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006042-46",
+    "name": "Akhil G M",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm spin",
+    "isWicketKeeper": true,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 0,
+      "runs": 0,
+      "wickets": 0
+    },
+    "image": "https://drive.google.com/thumbnail?id=1bPW_nQz0X-65HC1vZ0Ib5JXba5RMCfWs&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006042-47",
+    "name": "Akhilesh T R",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm spin",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 0,
+      "runs": 0,
+      "wickets": 0
+    },
+    "image": "https://drive.google.com/thumbnail?id=1iGwblhprGmVTA9feks3n5qE2YlnwEmgJ&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006042-48",
+    "name": "Arun Sivadas",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm  fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 72,
+      "runs": 442,
+      "wickets": 40
+    },
+    "image": "https://drive.google.com/thumbnail?id=1uJpdepN0EEliUA4LTkBWsnrAMi8jSktY&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006042-49",
+    "name": "Thanveer",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 29,
+      "runs": 84,
+      "wickets": 10
+    },
+    "image": "https://drive.google.com/thumbnail?id=1vEzC9V8TCG-GmHG9bLeznWgQpdCjysUX&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006042-50",
+    "name": "Murali P",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 0,
+      "runs": 0,
+      "wickets": 0
+    },
+    "image": "https://drive.google.com/thumbnail?id=12IQsxy3Nb-zPFAmwYEWhyTGCJfz4_UbJ&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006043-51",
+    "name": "Ridhu",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Left-arm medium Fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 28,
+      "runs": 137,
+      "wickets": 8
+    },
+    "image": "https://drive.google.com/thumbnail?id=17yBMRUC3UrUBG4hNh2SqkRDNSbgEIlDd&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006043-52",
+    "name": "James francis",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm  fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 0,
+      "runs": 0,
+      "wickets": 0
+    },
+    "image": "https://drive.google.com/thumbnail?id=13yIgMq_3b6wxMUp8c-8zfOBlJ1MpPu72&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006043-53",
+    "name": "Sonu sajeev",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm  fast",
+    "isWicketKeeper": false,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 70,
+      "runs": 291,
+      "wickets": 39
+    },
+    "image": "https://drive.google.com/thumbnail?id=1D3jinMKA5s6BjtrtC6o4clNoua517TIA&sz=w1000"
+  },
+  {
+    "id": "p-import-1767454006043-54",
+    "name": "Vishnu Santhosh",
+    "role": "Batsman",
+    "battingStyle": "Right handed",
+    "bowlingStyle": "Right-arm medium Fast",
+    "isWicketKeeper": true,
+    "availableDates": "Full Season",
+    "basePrice": 10,
+    "status": "Available",
+    "stats": {
+      "matches": 0,
+      "runs": 0,
+      "wickets": 0
+    },
+    "image": "https://drive.google.com/thumbnail?id=1vyteM8OMj2uaPvBtvjjsF8r-TZ8gPV45&sz=w1000"
+  }
+]
